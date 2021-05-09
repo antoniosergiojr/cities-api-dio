@@ -2,13 +2,13 @@
 
 Rest API for querying cities in Brazil with comparative data using Spring Boot and PostgreSQL.
 
-## ? Index
-- ? [Settings](#-settings)
-- ? [Technologies](#-technologies)
-- ? [How to run](#-how-to-run)
+## 📌 Index
+- ⚙ [Settings](#-settings)
+- 💻 [Technologies](#-technologies)
+- 🚀 [How to run](#-how-to-run)
 ---
 
-## ? Settings
+## ⚙ Settings
 ## Requirements
 
 * Linux
@@ -124,15 +124,15 @@ wget https://raw.githubusercontent.com/checkstyle/checkstyle/master/src/main/res
 ```
 ---
 
-## ? Technologies
+## 💻 Technologies
     - Java
     - Spring Boot
-    - Gradlew
+    - Gradle
     - Docker   
     - PostgreSQL
 ---
 
-## ? How to run
+## 🚀 How to run
 
   > Cloning the repository
   ```bash
