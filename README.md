@@ -138,5 +138,8 @@ wget https://raw.githubusercontent.com/checkstyle/checkstyle/master/src/main/res
   ```bash
     # Cloning repository
     git clone https://github.com/antoniosergiojr/cities-api-dio.git
-  ```
+    
+    # Running web project
+    Start the project and open the file Insommia.json to request GET.
+  ```  
 ---
